@@ -56,23 +56,23 @@ This is my GitHub project board. I used the columns "To Do", "In Progress", and 
 ### C. Branching
 
 ![Branches](images/Branches.png)  
-This screenshot displays my project branches. I followed a naming convention like `feature/1-home-page` to keep branches organized. Each branch was tied to a specific issue, which helped isolate features and avoid breaking the main code.
+This screenshot displays my project branches. I followed a naming convention like `feature/2-home-page` to keep branches organized. Each branch was tied to a specific issue, which helped isolate features and avoid breaking the main code.
 
 ---
 
 ### D. Pull Requests
 
 ![Pull Request](images/pull-request-linked-to-create-a-homepage.png)  
-This is a pull request for the Home Page feature. It was linked to its issue and milestone, and included a structured commit message. Pull requests helped me review changes before merging and maintain clean collaboration practices.
+This is a pull request for the about Page feature. It was linked to its issue and milestone, and included a structured commit message. Pull requests helped me review changes before merging and maintain clean collaboration practices.
 
 ---
 
 ### E. Merge Conflict Resolution
 
 ![Screenshot of a merge conflict](images/Mergeconflict.png)  
-This shows a real merge conflict triggered when two branches edited the same part of `contact.html`. GitHub flagged the conflict and paused the merge.
+This is an example of a real merge conflict triggered when two branches edited the same part of `index.html`. GitHub flagged the conflict and paused the merge.
 
 ![Screenshot of a Resolved merge conflict](images/resolved-conflicts.png)  
-This shows the conflict after resolution. I manually edited the file using GitHub’s conflict editor to keep the correct version. I then committed the resolved file and completed the merge.
+This shows a diffrent merge conflict after resolution in the `contact.html`. I manually edited the file using GitHub’s conflict editor to keep the correct version. I then committed the resolved file and completed the merge.
 
 ---
