@@ -32,14 +32,18 @@
 ![milestones](images/milestones.png)  
 This screenshot shows the milestone setup for my portfolio project. I created clear milestones for each major section (Home, About, Projects, Contact) to help divide the work into manageable deliverables.
 
+
 ![Home Page Issue](images/create-home-page-issue.png)  
 This issue outlines the task for creating the home page. It is linked to its milestone and was the first feature branch I implemented.
+
 
 ![Contact Page Issue](images/contact-issue.png)  
 This shows the issue for developing the Contact page. I used this to describe the expected content and linked it to a branch where I added a form and heading.
 
+
 ![About Page Issue](images/about-page-issue.png)  
 This shows the issue related to the About page. Documenting it as an issue allowed me to track the task’s progress and ensure it was tied to a feature branch.
+
 
 ![Project page Issue](images/projecs-page-issue.png)  
 This issue tracks the addition of the Projects section where I showcased past work. Linking this issue to a pull request helped ensure task traceability.
