@@ -2,23 +2,25 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Makworo Peris Kemunto 152135**:
+- **Perismakworo**:
+- **peris.makworo@strathmore.edu**:
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+  _( https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Perismakworo/)_
 
 ## 3. Learnings from the Git Crash Program
+Branching: Helped me separate different tasks (like the Home, About, Projects, and Contact pages) into feature-specific branches. This reduced confusion and allowed me to work on sections independently without affecting the main site.
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+Pull Requests: Taught me how to propose and review changes before merging them. Using pull requests helped me track which issue each change addressed and made it easy to document my progress clearly.
 
-Example format:
+Commit Messages: I learned how to write structured commit messages using conventions like feat, fix, or chore. This improved the readability of my Git history and made it easier to trace what each change did and which issue it was linked to.
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+Merge Conflict Resolution: I understood how merge conflicts occur when multiple branches edit the same line. I practiced resolving one manually using GitHub’s built-in conflict editor and committed the final resolved version, which is important in collaborative coding environments.
+
+GitHub Pages Deployment (bonus): Although not a core crash topic, I applied what I learned to deploy my site using GitHub Pages. I understood how to keep main always deployable and how to trigger automatic builds using correct folder structure.
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -33,8 +35,7 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
-
+![About Page Issue](images/about%20page%20issue.png)
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
